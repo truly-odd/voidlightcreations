@@ -1,0 +1,6 @@
+.env*
+*.p12
+*.jks
+*.keystore
+*.dpapi
+node_modules/
